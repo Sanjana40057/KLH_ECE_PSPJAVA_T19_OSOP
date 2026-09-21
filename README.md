@@ -6,6 +6,8 @@
 **Team Member Names with ID Numbers:**
 1. 2620040057- Gottumukkala Sanjana
 2. 262008OO30 – Jeevana Sathvika Velaga
+
+**Supervisor's Name**:Dr. Madhavi Karumudi
  
 **Abstract:**
 The Online Store Cart and Order Pipeline is a simple e-commerce application designed to demonstrate the fundamental concepts and functionalities involved in an online shopping platform. The system allows users to browse and view a collection of available products, select products based on their requirements, and add them to a shopping cart. Users can modify the quantity and size of selected products, remove items from the cart, and view the total cost of their order before proceeding with the purchase. The application provides a structured and user-friendly approach to managing products, shopping carts, and customer orders.
