@@ -1,5 +1,5 @@
 # KLH_ECE_PSPJAVA_T19_OSOP
-**Project Title:** Hospital-Management-System
+**Project Title:** Online Store Cart and Order Pipeline
 
 **Team No:** KLH/PSPJAVA/S14/T19
 
@@ -15,12 +15,12 @@ In addition to basic shopping-cart functionality, the system demonstrates a comp
 From an Object-Oriented Programming (OOP) perspective, the project applies important principles such as encapsulation, inheritance, polymorphism, and abstraction Objects and classes are used to represent products, customers, carts, orders, payments, and inventory. The application also manages product stock and order information through appropriate business logic. Overall, the project provides a practical demonstration of how OOP concepts can be applied to develop a structured, maintainable, and functional e-commerce system.
 
 **Project Structure:**
-Hospital-Management-System (under this folder)
+Online Store Cart and Order Pipeline (under this folder)
 │
 ├── README.md
 │
 ├── src
-│   └── HospitalManagementSystem.java
+│   └── Online Store Cart and Order Pipeline.java
 │
 ├── docs
 │
@@ -31,8 +31,8 @@ Hospital-Management-System (under this folder)
 └── reports
 
 **Execution Instructions:**
-> Javac HospitalManagementSystem.java
-> java HospitalManagementSystem
+> Javac Online Store Cart and Order Pipeline.java
+> java Online Store Cart and Order Pipeline
 
 **Git Commands:**
 git init
